@@ -36,16 +36,7 @@ Simulações Numéricas de problemas interessantes de Matemática e Estatistíca
   <img src ='https://raw.githubusercontent.com/rafaeldjsm/Matematica/master/imagens/rato_labirinto2.PNG' width=500px></p>
  
 
-|    |   0 |   1 |   2 |   3 |   4 |   5 |   6 |   7 |   8 |   9 |   10 |
-|---:|----:|----:|----:|----:|----:|----:|----:|----:|----:|----:|-----:|
-|  0 |  12 |  11 |  -1 |  -1 |   8 |   7 |   6 |   0 |   0 |   0 |    0 |
-|  1 |   0 |  -1 |  10 |   9 |  -1 |   0 |  -1 |   5 |  -1 |  -1 |    0 |
-|  2 |   0 |   0 |  -1 |   0 |  -1 |   0 |  -1 |   0 |   4 |   0 |   -1 |
-|  3 |   0 |  -1 |   0 |  -1 |   0 |   0 |   0 |  -1 |  -1 |   3 |    0 |
-|  4 |   0 |   0 |   0 |  -1 |   0 |  -1 |   0 |   0 |   0 |  -1 |    2 |
-|  5 |   0 |  -1 |   0 |   0 |   0 |   0 |   0 |   0 |  -1 |   0 |    1 |
-
-<table border="1" class="dataframe" align: center>
+<table border="1">
   <thead>
     <tr style="text-align: center;">
       <th></th>
