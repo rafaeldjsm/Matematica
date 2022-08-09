@@ -141,7 +141,7 @@ Simulações Numéricas de problemas interessantes de Matemática e Estatistíca
   </tbody>
 </table>
 
-<p align="center">Figura 2 - Matriz</p>
+<p align="center">*Figura 2 - Matriz*</p>
 
 
 ### Saída de Dados 
