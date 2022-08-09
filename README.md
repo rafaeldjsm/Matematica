@@ -45,6 +45,111 @@ Simulações Numéricas de problemas interessantes de Matemática e Estatistíca
 |  4 |   0 |   0 |   0 |  -1 |   0 |  -1 |   0 |   0 |   0 |  -1 |    2 |
 |  5 |   0 |  -1 |   0 |   0 |   0 |   0 |   0 |   0 |  -1 |   0 |    1 |
 
+<table border="1" class="dataframe" align: center>
+  <thead>
+    <tr style="text-align: center;">
+      <th></th>
+      <th>0</th>
+      <th>1</th>
+      <th>2</th>
+      <th>3</th>
+      <th>4</th>
+      <th>5</th>
+      <th>6</th>
+      <th>7</th>
+      <th>8</th>
+      <th>9</th>
+      <th>10</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th>0</th>
+      <td>12</td>
+      <td>11</td>
+      <td>-1</td>
+      <td>-1</td>
+      <td>8</td>
+      <td>7</td>
+      <td>6</td>
+      <td>0</td>
+      <td>0</td>
+      <td>0</td>
+      <td>0</td>
+    </tr>
+    <tr>
+      <th>1</th>
+      <td>0</td>
+      <td>-1</td>
+      <td>10</td>
+      <td>9</td>
+      <td>-1</td>
+      <td>0</td>
+      <td>-1</td>
+      <td>5</td>
+      <td>-1</td>
+      <td>-1</td>
+      <td>0</td>
+    </tr>
+    <tr>
+      <th>2</th>
+      <td>0</td>
+      <td>0</td>
+      <td>-1</td>
+      <td>0</td>
+      <td>-1</td>
+      <td>0</td>
+      <td>-1</td>
+      <td>0</td>
+      <td>4</td>
+      <td>0</td>
+      <td>-1</td>
+    </tr>
+    <tr>
+      <th>3</th>
+      <td>0</td>
+      <td>-1</td>
+      <td>0</td>
+      <td>-1</td>
+      <td>0</td>
+      <td>0</td>
+      <td>0</td>
+      <td>-1</td>
+      <td>-1</td>
+      <td>3</td>
+      <td>0</td>
+    </tr>
+    <tr>
+      <th>4</th>
+      <td>0</td>
+      <td>0</td>
+      <td>0</td>
+      <td>-1</td>
+      <td>0</td>
+      <td>-1</td>
+      <td>0</td>
+      <td>0</td>
+      <td>0</td>
+      <td>-1</td>
+      <td>2</td>
+    </tr>
+    <tr>
+      <th>5</th>
+      <td>0</td>
+      <td>-1</td>
+      <td>0</td>
+      <td>0</td>
+      <td>0</td>
+      <td>0</td>
+      <td>0</td>
+      <td>0</td>
+      <td>-1</td>
+      <td>0</td>
+      <td>1</td>
+    </tr>
+  </tbody>
+</table>
+
 Figura 2 - Matriz
 
 ### Saída de Dados 
