@@ -21,9 +21,7 @@ Simulações Numéricas de problemas interessantes de Matemática e Estatistíca
 
 >Ajude um rato a encontrar um pedaço de queijo num labirinto como o do desenho da figura 1: Um labirinto desses pode ser representado por uma matriz retangular L, cujo elemento $L[i][j]$ vale 0 ou −1 conforme a casa correspondente do labirinto seja uma passagem livre ou uma parede, respectivamente.
 
-<center>
-<img src ='https://raw.githubusercontent.com/rafaeldjsm/Matematica/master/imagens/rato_labirinto.PNG' width=500px>
-</center>
+<center><img src ='https://raw.githubusercontent.com/rafaeldjsm/Matematica/master/imagens/rato_labirinto.PNG' width=500px></center>
 
 ### Saída de Dados 
 
