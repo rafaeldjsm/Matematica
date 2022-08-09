@@ -35,7 +35,7 @@ Simulações Numéricas de problemas interessantes de Matemática e Estatistíca
 <p align="center">
   <img src ='https://raw.githubusercontent.com/rafaeldjsm/Matematica/master/imagens/rato_labirinto2.PNG' width=500px></p>
  
-<p align="center">
+<tab align="center">
 |    |   0 |   1 |   2 |   3 |   4 |   5 |   6 |   7 |   8 |   9 |   10 |
 |---:|----:|----:|----:|----:|----:|----:|----:|----:|----:|----:|-----:|
 |  0 |  12 |  11 |  -1 |  -1 |   8 |   7 |   6 |   0 |   0 |   0 |    0 |
@@ -44,11 +44,11 @@ Simulações Numéricas de problemas interessantes de Matemática e Estatistíca
 |  3 |   0 |  -1 |   0 |  -1 |   0 |   0 |   0 |  -1 |  -1 |   3 |    0 |
 |  4 |   0 |   0 |   0 |  -1 |   0 |  -1 |   0 |   0 |   0 |  -1 |    2 |
 |  5 |   0 |  -1 |   0 |   0 |   0 |   0 |   0 |   0 |  -1 |   0 |    1 |
-</p>
+</tab>
 
-<p align="center"> 
+<tt align="center"> 
   \text{Figura 2 - Matriz}
-</p>
+</tt>
 ### Saída de Dados 
 
 >A saída do seu programa deve ser uma lista de coordenadas que comece pela posição inicial do rato e termine na posição inicial do queijo. Essa sequencia de coordenadas deve indicar o caminho mais curto para o rato chegar ao queijo.
