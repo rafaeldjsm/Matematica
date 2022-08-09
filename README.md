@@ -45,10 +45,8 @@ Simulações Numéricas de problemas interessantes de Matemática e Estatistíca
 |  4 |   0 |   0 |   0 |  -1 |   0 |  -1 |   0 |   0 |   0 |  -1 |    2 |
 |  5 |   0 |  -1 |   0 |   0 |   0 |   0 |   0 |   0 |  -1 |   0 |    1 |
 
+Figura 2 - Matriz
 
-<tt align="center"> 
-  \text{Figura 2 - Matriz}
-</tt>
 ### Saída de Dados 
 
 >A saída do seu programa deve ser uma lista de coordenadas que comece pela posição inicial do rato e termine na posição inicial do queijo. Essa sequencia de coordenadas deve indicar o caminho mais curto para o rato chegar ao queijo.
