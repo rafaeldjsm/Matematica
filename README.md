@@ -35,7 +35,7 @@ Simulações Numéricas de problemas interessantes de Matemática e Estatistíca
 <p align="center">
   <img src ='https://raw.githubusercontent.com/rafaeldjsm/Matematica/master/imagens/rato_labirinto2.PNG' width=500px></p>
  
-<tab align="center">
+
 |    |   0 |   1 |   2 |   3 |   4 |   5 |   6 |   7 |   8 |   9 |   10 |
 |---:|----:|----:|----:|----:|----:|----:|----:|----:|----:|----:|-----:|
 |  0 |  12 |  11 |  -1 |  -1 |   8 |   7 |   6 |   0 |   0 |   0 |    0 |
@@ -44,7 +44,7 @@ Simulações Numéricas de problemas interessantes de Matemática e Estatistíca
 |  3 |   0 |  -1 |   0 |  -1 |   0 |   0 |   0 |  -1 |  -1 |   3 |    0 |
 |  4 |   0 |   0 |   0 |  -1 |   0 |  -1 |   0 |   0 |   0 |  -1 |    2 |
 |  5 |   0 |  -1 |   0 |   0 |   0 |   0 |   0 |   0 |  -1 |   0 |    1 |
-</tab>
+
 
 <tt align="center"> 
   \text{Figura 2 - Matriz}
