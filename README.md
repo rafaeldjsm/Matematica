@@ -28,8 +28,7 @@ Simulações Numéricas de problemas interessantes de Matemática e Estatistíca
 
 >A saída do seu programa deve ser uma lista de coordenadas que comece pela posição inicial do rato e termine na posição inicial do queijo. Essa sequencia de coordenadas deve indicar o caminho mais curto para o rato chegar ao queijo.
 
-## [O Problema do rato no labirinto]([https://github.com/rafaeldjsm/Matematica/blob/main/caminhoab_diag.ipynb](https://github.com/rafaeldjsm/Matematica/blob/main/caminhoab_90g.ipynb))
-
+## [O Problema do rato no labirinto](https://github.com/rafaeldjsm/Matematica/blob/main/caminhoab_90g.ipynb)
 
 >Ajude um rato a encontrar um pedaço de queijo num labirinto como o do desenho da figura 1: Um labirinto desses pode ser representado por uma matriz retangular L, cujo elemento $L[i][j]$ vale 0 ou −1 conforme a casa correspondente do labirinto seja uma passagem livre ou uma parede, respectivamente.
 >Suponha que, a cada passo, o rato possa se deslocar de apenas uma casa na vertical ou na horizontal.
