@@ -143,8 +143,7 @@ Simulações Numéricas de problemas interessantes de Matemática e Estatistíca
 
 <t style="text-align: center;">Figura 2 - Matriz</t>
 
-Center-aligned
-{: .text-center}
+Center-aligned.{: .text-center}
 
 
 ### Saída de Dados 
