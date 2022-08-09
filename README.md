@@ -36,7 +36,7 @@ Simulações Numéricas de problemas interessantes de Matemática e Estatistíca
   <img src ='https://raw.githubusercontent.com/rafaeldjsm/Matematica/master/imagens/rato_labirinto2.PNG' width=500px></p>
  
 
-<table border="1">
+<table border="1" class="center">
   <thead>
     <tr style="text-align: center;">
       <th></th>
