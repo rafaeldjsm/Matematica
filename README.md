@@ -141,7 +141,7 @@ Simulações Numéricas de problemas interessantes de Matemática e Estatistíca
   </tbody>
 </table>
 
-<h1 style="text-align: center;">Figura 2 - Matriz</h1>
+<t style="text-align: center;">Figura 2 - Matriz</t>
 
 Center-aligned
 {: .text-center}
