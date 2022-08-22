@@ -147,3 +147,11 @@ Simulações Numéricas de problemas interessantes de Matemática e Estatistíca
 ### Saída de Dados 
 
 >A saída do seu programa deve ser uma lista de coordenadas que comece pela posição inicial do rato e termine na posição inicial do queijo. Essa sequencia de coordenadas deve indicar o caminho mais curto para o rato chegar ao queijo.
+
+
+
+## [Gaussian Prime Ring](https://github.com/rafaeldjsm/Matematica/blob/main/gaussian_ring.ipynb)
+
+> In the ring of Gaussian integers (a+bi, where a, b are integers), a lot of the ordinary primes can be factored into Gaussian primes, e.g. 5=(2+i)(2-i). Here are the Gaussian primes with norm less than 1000.
+<center>![Fermat Linkedin](https://github.com/rafaeldjsm/Matematica/blob/main/imagens/Capturar_gassian_ring.PNG)
+[Reference](https://mathworld.wolfram.com/GaussianPrime.html)
